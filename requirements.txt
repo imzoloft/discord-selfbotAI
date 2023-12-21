@@ -1,0 +1,5 @@
+asyncio
+openai
+emoji
+discordpy-self==2.0.0
+python-dotenv 
